@@ -1,0 +1,5 @@
+/Users/dwightbemisderfer/Projects/_07__Arrays/_07__Arrays/bin/Debug/_07__Arrays.exe
+/Users/dwightbemisderfer/Projects/_07__Arrays/_07__Arrays/bin/Debug/_07__Arrays.pdb
+/Users/dwightbemisderfer/Projects/_07__Arrays/_07__Arrays/obj/Debug/_07__Arrays.csprojAssemblyReference.cache
+/Users/dwightbemisderfer/Projects/_07__Arrays/_07__Arrays/obj/Debug/_07__Arrays.exe
+/Users/dwightbemisderfer/Projects/_07__Arrays/_07__Arrays/obj/Debug/_07__Arrays.pdb

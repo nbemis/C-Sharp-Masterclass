@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_07__Arrays", "_07__Arrays.csproj", "{E7B6B2CA-C654-409B-871C-E799E3E86B70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7B6B2CA-C654-409B-871C-E799E3E86B70}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{E7B6B2CA-C654-409B-871C-E799E3E86B70}.Debug|anycpu.Build.0 = Debug|anycpu
+		{E7B6B2CA-C654-409B-871C-E799E3E86B70}.Release|anycpu.ActiveCfg = Release|anycpu
+		{E7B6B2CA-C654-409B-871C-E799E3E86B70}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
